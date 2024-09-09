@@ -1,4 +1,4 @@
-# Termux Battery Monitor
+# Termux Menu
 Este projeto é um script Python para um menu Termux
 
 # Funcionalidades
